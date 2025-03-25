@@ -17,10 +17,10 @@ Hi there! I'm **Your Name**, a passionate developer who loves coding, open-sourc
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuchiroudeAstrea&show_icons=true&theme=dracula)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiroudeAstrea&layout=compact&theme=radical)
 
 ## ⏱️ Wakatime Stats (If using Wakatime)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
