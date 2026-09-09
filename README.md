@@ -1,103 +1,212 @@
-<!--
-  MuchiroudeAstrea / GitHub Profile README
-  Theme: Cybersecurity × Software Engineering
--->
+<!-- =========================================================
+     MuchiroudeAstrea — GitHub Profile README
+     Mood: warm coffee, rainy afternoon, quiet engineering
+========================================================= -->
 
 <div align="center">
 
-# `MuchiroudeAstrea`
+<a href="https://github.com/MuchiroudeAstrea">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MuchiroudeAstrea&fontSize=52&fontAlignY=38&desc=coffee%20%2B%20code%20%2B%20rainy%20days&descAlignY=61&descSize=18&animation=fadeIn&fontColor=4A3728&color=0:F3E7D3,50:E7D4BD,100:D7C0A4" width="100%" alt="Warm coffee themed header">
+</a>
 
-### Cybersecurity • Software Engineering • CTF
+### `a quiet corner for code, coffee & curiosity`
 
 <p>
-  <a href="https://github.com/MuchiroudeAstrea">
-    <img src="https://img.shields.io/badge/GitHub-MuchiroudeAstrea-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://github.com/MuchiroudeAstrea?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-6B4F3A?style=flat-square&logo=github&logoColor=F8F1E7" alt="Repositories">
   </a>
+  <a href="https://github.com/MuchiroudeAstrea">
+    <img src="https://img.shields.io/badge/GitHub-F3E7D3?style=flat-square&logo=github&logoColor=6B4F3A" alt="GitHub">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MuchiroudeAstrea&style=flat-square&color=9B8063&label=profile%20views" alt="Profile views">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=BUILD.%20BREAK.%20LEARN.&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:1e293b" width="100%" alt="Profile header">
+> **Build slowly. Understand deeply. Ship something worth keeping.**
 
 </div>
 
 ---
 
-## `$ whoami`
+## ☕ A little about me
 
-I'm a student developer interested in **software engineering, cybersecurity and systems**.
+I'm a student developer who enjoys the space where **software, systems and cybersecurity** overlap.
 
-I enjoy moving between different layers of computing — from C/C++ and data structures to Python automation, web development, Linux environments and CTF challenges.
+I like learning by making things: writing code, taking apart how systems behave, solving CTF challenges, experimenting with Linux, and turning small ideas into working projects.
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│  CURRENTLY EXPLORING                                  │
-│                                                      │
-│  > C / C++              Data Structures & Algorithms │
-│  > Python               Cybersecurity / CTF          │
-│  > Linux / Kali Linux   Web Development              │
-│  > TypeScript           Systems & Embedded           │
-└──────────────────────────────────────────────────────┘
+ rainy day.exe
+
+ ┌─────────────────────────────────────────────────────┐
+ │  ☕ coffee          💻 code          🌧️ rain        │
+ │                                                     │
+ │  C / C++       → algorithms, memory, data structs  │
+ │  Python        → automation, tools, experiments    │
+ │  Web           → JavaScript / TypeScript / Next.js │
+ │  Security      → CTF / Linux / web security        │
+ │  Embedded      → 8051 / microcontroller            │
+ └─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧰 Tech Stack
+## 🧸 Things I like building
 
-### Languages
+<table>
+<tr>
+<td width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&perline=8" alt="Languages">
-</p>
+### 🌐 Web & UI
 
-### Development & Systems
+Modern web interfaces, small experiments, interactive pages and practical frontend projects.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,git,github,linux,windows,vscode&perline=9" alt="Development and systems">
-</p>
+**Currently around:**  
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js`
 
-### Security / Engineering
+</td>
+<td width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali&perline=6" alt="Security tools">
-</p>
+### 🛡️ Security & CTF
 
-> Also exploring: **8051 / embedded systems, VMware, Burp Suite, pwntools, PyCryptodome, Proteus and Keil C51.**
+Learning how systems fail, how applications behave under pressure, and how to reason through CTF-style problems.
 
----
+**Tools I use:**  
+`Linux` `Kali` `Burp Suite` `pwntools` `Python`
 
-## 🚀 Selected Work
-
-### 🌐 Solar Planet Web
-A web development project exploring modern frontend techniques and interactive UI.
-
-**Stack:** HTML / CSS / JavaScript
-
-→ [View repository](https://github.com/MuchiroudeAstrea/Solar-Planet-Web)
-
-### 🛡️ CTF & Security
-Hands-on practice with web security, cryptography, binary interaction and CTF-style problem solving.
-
-**Tools:** Burp Suite · pwntools · Python · Linux · Kali Linux
-
-### 🧩 Image → PDF
-A Python desktop utility for converting large batches of images into PDF documents, with a focus on memory usage and processing performance.
-
-**Stack:** Python · Pillow · Tkinter · PyInstaller
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### ⚙️ Systems & Algorithms
-Working through C/C++, pointers, dynamic memory, linked lists, trees, sorting algorithms, file operations and core data structures.
+
+The fun part: pointers, memory, linked lists, trees, sorting, files and the foundations underneath higher-level software.
+
+**Languages:**  
+`C` `C++` `Python`
+
+</td>
+<td width="50%">
+
+### 🔌 Embedded
+
+Exploring low-level computing with microcontrollers and classic embedded tooling.
+
+**Currently exploring:**  
+`8051` `Proteus` `Keil C51`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌿 Selected projects
+
+### ☀️ Solar Planet Web
+A small web project and one of the visible projects on my profile.
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/MuchiroudeAstrea/Solar-Planet-Web">View repository →</a>
+
+### 📚 CLB-CAL
+A project-oriented web repository built around club work and experimentation.
+
+`JavaScript`
+
+<a href="https://github.com/MuchiroudeAstrea/CLB-CAL">View repository →</a>
+
+### 🎨 Sofi-web-
+A lightweight web/demo repository for a Sofieru project.
+
+`HTML`
+
+<a href="https://github.com/MuchiroudeAstrea/Sofi-web-">View repository →</a>
+
+### 🧪 More experiments
+I keep smaller prototypes, tests and learning projects around the profile while I figure out what deserves to become a bigger project.
+
+<a href="https://github.com/MuchiroudeAstrea?tab=repositories">Browse all repositories →</a>
+
+---
+
+## 🛠️ Toolkit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuchiroudeAstrea&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,tailwind,git,github,bash,linux&perline=8" alt="Technology stack">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiroudeAstrea&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages">
+<br><br>
+
+<img src="https://img.shields.io/badge/CTF-6B4F3A?style=for-the-badge&logo=hackthebox&logoColor=F8F1E7" alt="CTF">
+<img src="https://img.shields.io/badge/Burp%20Suite-8B684F?style=for-the-badge&logo=portswigger&logoColor=F8F1E7" alt="Burp Suite">
+<img src="https://img.shields.io/badge/pwntools-A58A70?style=for-the-badge&logo=python&logoColor=F8F1E7" alt="pwntools">
+<img src="https://img.shields.io/badge/Kali%20Linux-7A6757?style=for-the-badge&logo=kalilinux&logoColor=F8F1E7" alt="Kali Linux">
+
+</div>
+
+---
+
+## 📊 A quiet little dashboard
+
+<div align="center">
+
+<a href="https://github.com/MuchiroudeAstrea">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuchiroudeAstrea&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=6B4F3A&text_color=6F6257&icon_color=9B8063" alt="GitHub statistics">
+</a>
+
+<a href="https://github.com/MuchiroudeAstrea">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiroudeAstrea&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6B4F3A&text_color=6F6257" alt="Top languages">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MuchiroudeAstrea&hide_border=true&background=00000000&ring=9B8063&fire=A56B43&currStreakLabel=6B4F3A&sideLabels=6F6257&currStreakNum=6B4F3A&sideNums=6B4F3A&dates=8F8277" alt="GitHub streak">
+
+</div>
+
+---
+
+## 🌧️ When it rains, I code
+
+<div align="center">
+
+<a href="https://github.com/MuchiroudeAstrea">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuchiroudeAstrea&hide_border=true&area=true&bg_color=00000000&color=6B4F3A&line=9B8063&point=A56B43" width="95%" alt="GitHub activity graph">
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake">
+
+</div>
+
+---
+
+## 📖 Current chapter
+
+```text
+learning
+├── C / C++                 ███████████████░░░
+├── Data Structures         ███████████████░░░
+├── Python                  █████████████████░
+├── Web Development         ██████████████░░░░
+├── Cybersecurity / CTF     █████████████░░░░░
+└── Embedded / 8051        ████████░░░░░░░░░
+```
+
+> Not trying to know everything.
+> Just trying to understand one more layer every day.
+
+---
+
+## 📨 Find me
+
+<div align="center">
+
+<a href="https://github.com/MuchiroudeAstrea">
+  <img src="https://img.shields.io/badge/GitHub-6B4F3A?style=for-the-badge&logo=github&logoColor=F8F1E7" alt="GitHub">
+</a>
 
 </div>
 
@@ -105,64 +214,12 @@ Working through C/C++, pointers, dynamic memory, linked lists, trees, sorting al
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MuchiroudeAstrea&hide_border=true&theme=transparent" alt="GitHub streak">
+<sub>made with ☕ during a rainy evening</sub>
 
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![MuchiroudeAstrea's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuchiroudeAstrea&hide_border=true&area=true&theme=github-compact)](https://github.com/MuchiroudeAstrea)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-Cybersecurity       ███████████████░░░  learning
-C / C++              ████████████████░░  building
-Python               █████████████████░  building
-Web Development     ██████████████░░░░  building
-DSA                 ███████████████░░░  practicing
-Embedded / 8051     ████████░░░░░░░░░░  exploring
-```
-
-> The goal isn't to collect technologies.
-> It's to understand how they work — and build things with them.
-
----
-
-## 📫 Connect
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/MuchiroudeAstrea">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:D7C0A4,50:E7D4BD,100:F3E7D3" width="100%" alt="Warm footer">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### `while(alive) { learn(); build(); break_things(); }`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e293b,50:111827,100:0f172a" width="100%" alt="Profile footer">
 
 </div>
